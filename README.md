@@ -1,1 +1,2 @@
 # BLINKIT GROCERY DATA SQL PROJECT
+# Project overview
