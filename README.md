@@ -1,1 +1,1 @@
-# SQL_blinkit_grocery_p1
+# BLINKIT GROCERY DATA SQL PROJECT
