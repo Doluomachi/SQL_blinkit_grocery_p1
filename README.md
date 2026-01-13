@@ -136,9 +136,19 @@ GROUP BY weight_category
 ORDER BY avg_sales DESC;
 ```
 ## Key Insights
-- Certain item types and fat content categories generate higher sales.
+- Certain item types and low fat content categories generate higher sales.
 - Medium and small outlets tend to perform better in terms of total sales.
 - Outlet location and type play a significant role in sales performance.
 - Items with better visibility often have higher sales.
+- Outlet age doesn't strongly impact sales.
 
 ## Recommendation
+- Stock more high-performing item types and low-fat content to further increase revenue.
+- Focus expansion/marketing on medium and small outlets. Evaluate the larger outlets to understand why sales lag.
+- Identify high-performing location and replicate startegy. Also evaluate the low-performing location and adapt/study the demographics demand.
+- Since better visibility equals higher sales, place high-demand items in prominent positions and regularly rotate for visibility.
+- Track rating and customer feedback to guide product decision.
+- Focus less on outlet age and more on operational pratices, location, and item assortment. 
+
+## Conclusion
+This project helped strengthen foundational SQL skills while demonstrating how data analysis can be used to extract meaningful business insights from raw grocery sales data. The findings can support decision-making in areas such as inventory management, outlet planning, and product optimization.
