@@ -135,3 +135,10 @@ WHERE item_weight IS NOT NULL
 GROUP BY weight_category
 ORDER BY avg_sales DESC;
 ```
+## Key Insights
+- Certain item types and fat content categories generate higher sales.
+- Medium and small outlets tend to perform better in terms of total sales.
+- Outlet location and type play a significant role in sales performance.
+- Items with better visibility often have higher sales.
+
+## Recommendation
