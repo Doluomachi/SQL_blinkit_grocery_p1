@@ -23,10 +23,13 @@ This project focuses on analyzing Blinkit grocery sales data using SQL to gain i
 - created a database and table in SQL server.
 -  Loaded the cleaned dataset into the SQL database for further analysis.
 
-
 ### 3. Exploratory Data Analysis(EDA)
 - Analysed total sales and average sales.
 - Identified top-performing outlets and product type.
 ### 4. Insights and Conclusions
 - Summarized key findings from the analysis.
 - Derived business insights based on sales and outlet performance.
+
+## Tools 
+- Excel (Data Cleaning/Preparation)
+- SQL Server (Data Analysis)
